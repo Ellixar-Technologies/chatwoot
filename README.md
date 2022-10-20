@@ -33,11 +33,11 @@ ___
 
 
 
-Ellixar Chat is an open-source, self-hosted customer engagement suite. Ellixar Chat lets you view and manage your customer data, communicate with them irrespective of which medium they use, and re-engage them based on their profile.
+Ellixar-Chat(ChatwootFork) is an open-source, self-hosted customer engagement suite. Ellixar-Chat(ChatwootFork) lets you view and manage your customer data, communicate with them irrespective of which medium they use, and re-engage them based on their profile.
 
 ## Features
 
-Ellixar Chat supports the following conversation channels:
+Ellixar-Chat(ChatwootFork) supports the following conversation channels:
 
  - **Website**: Talk to your customers using our live chat widget and make use of our SDK to identify a user and provide contextual support.
  - **Facebook**: Connect your Facebook pages and start replying to the direct messages to your page.
@@ -48,7 +48,7 @@ Ellixar Chat supports the following conversation channels:
  - **Line**: Connect your Line account and manage the conversations in Chatwoot.
  - **SMS**: Connect your Twilio SMS account and reply to the SMS queries in Chatwoot.
  - **API Channel**: Build custom communication channels using our API channel.
- - **Email**: Forward all your email queries to Ellixar Chat and view it in our integrated dashboard.
+ - **Email**: Forward all your email queries to Ellixar-Chat(ChatwootFork) and view it in our integrated dashboard.
 
 And more.
 
@@ -60,11 +60,11 @@ Other features include:
 - **Private notes**: Use @mentions and private notes to communicate internally about a conversation.
 - **Canned responses (Saved replies)**: Improve the response rate by adding saved replies for frequently asked questions.
 - **Conversation Labels**: Use conversation labels to create custom workflows.
-- **Auto assignment**: Ellixar Chat intelligently assigns a ticket to the agents who have access to the inbox depending on their availability and load.
-- **Conversation continuity**: If the user has provided an email address through the chat widget, Ellixar Chat will send an email to the customer under the agent name so that the user can continue the conversation over the email.
-- **Multi-lingual support**: Ellixar Chat supports 10+ languages.
+- **Auto assignment**: Ellixar-Chat(ChatwootFork) intelligently assigns a ticket to the agents who have access to the inbox depending on their availability and load.
+- **Conversation continuity**: If the user has provided an email address through the chat widget, Ellixar-Chat(ChatwootFork) will send an email to the customer under the agent name so that the user can continue the conversation over the email.
+- **Multi-lingual support**: Ellixar-Chat(ChatwootFork) supports 10+ languages.
 - **Powerful API & Webhooks**: Extend the capability of the software using Chatwoot’s webhooks and APIs.
-- **Integrations**: Ellixar Chat natively integrates with Slack right now. Manage your conversations in Slack without logging into the dashboard.
+- **Integrations**: Ellixar-Chat(ChatwootFork) natively integrates with Slack right now. Manage your conversations in Slack without logging into the dashboard.
 
 ## Documentation
 
@@ -72,7 +72,7 @@ Detailed documentation is available at [chatwoot.com/help-center](https://www.ch
 
 ## Translation process
 
-The translation process for Ellixar Chat web and mobile app is managed at [https://translate.chatwoot.com](https://translate.chatwoot.com) using Crowdin. Please read the [translation guide](https://www.chatwoot.com/docs/contributing/translating-chatwoot-to-your-language) for contributing to Chatwoot.
+The translation process for Ellixar-Chat(ChatwootFork) web and mobile app is managed at [https://translate.chatwoot.com](https://translate.chatwoot.com) using Crowdin. Please read the [translation guide](https://www.chatwoot.com/docs/contributing/translating-chatwoot-to-your-language) for contributing to Chatwoot.
 
 ## Branching model
 
@@ -83,7 +83,7 @@ If you are looking for a stable version, please use the `master` or tags labelle
 
 ### Heroku one-click deploy
 
-Deploying Ellixar Chat to Heroku is a breeze. It's as simple as clicking this button:
+Deploying Ellixar-Chat(ChatwootFork) to Heroku is a breeze. It's as simple as clicking this button:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chatwoot/chatwoot/tree/master)
 
@@ -92,7 +92,7 @@ Follow this [link](https://www.chatwoot.com/docs/environment-variables) to under
 
 ### DigitalOcean 1-Click Kubernetes deployment
 
-Ellixar Chat now supports 1-Click deployment to DigitalOcean as a kubernetes app.
+Ellixar-Chat(ChatwootFork) now supports 1-Click deployment to DigitalOcean as a kubernetes app.
 
 <a href="https://marketplace.digitalocean.com/apps/chatwoot?refcode=f2238426a2a8" alt="Deploy to DigitalOcean">
   <img width="200" alt="Deploy to DO" src="https://www.deploytodo.com/do-btn-blue.svg"/>
@@ -119,4 +119,4 @@ Thanks goes to all these [wonderful people](https://www.chatwoot.com/docs/contri
 <a href="https://github.com/chatwoot/chatwoot/graphs/contributors"><img src="https://opencollective.com/chatwoot/contributors.svg?width=890&button=false" /></a>
 
 
-*Chatwoot* &copy; 2017-2022, Ellixar Chat Inc - Released under the MIT License.
+*Chatwoot* &copy; 2017-2022, Ellixar-Chat(ChatwootFork) Inc - Released under the MIT License.
