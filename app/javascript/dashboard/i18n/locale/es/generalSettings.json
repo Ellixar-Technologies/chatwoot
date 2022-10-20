@@ -86,7 +86,7 @@
   },
   "NETWORK": {
     "NOTIFICATION": {
-      "TEXT": "Desconectado de Ellixar Chat"
+      "TEXT": "Desconectado de Chatwoot"
     },
     "BUTTON": {
       "REFRESH": "Actualizar"

@@ -7,7 +7,7 @@ export const campaigns = [
     inbox: {
       id: 37,
       channel_id: 1,
-      name: 'Ellixar Chat',
+      name: 'Chatwoot',
       channel_type: 'Channel::WebWidget',
     },
     sender: {
@@ -64,7 +64,7 @@ export const campaigns = [
     inbox: {
       id: 37,
       channel_id: 1,
-      name: 'Ellixar Chat',
+      name: 'Chatwoot',
       channel_type: 'Channel::WebWidget',
     },
     sender: {

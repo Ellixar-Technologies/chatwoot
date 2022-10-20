@@ -86,7 +86,7 @@
   },
   "NETWORK": {
     "NOTIFICATION": {
-      "TEXT": "Atvienots no Ellixar Chat"
+      "TEXT": "Atvienots no Chatwoot"
     },
     "BUTTON": {
       "REFRESH": "Atjaunot"

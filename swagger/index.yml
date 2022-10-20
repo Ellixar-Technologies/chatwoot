@@ -2,7 +2,7 @@ swagger: "2.0"
 info:
   description: This is the API documentation for Ellixar Chat server.
   version: 1.0.0
-  title: Ellixar Chat
+  title: Chatwoot
   termsOfService:	https://www.chatwoot.com/terms-of-service/
   contact:
     email: hello@chatwoot.com

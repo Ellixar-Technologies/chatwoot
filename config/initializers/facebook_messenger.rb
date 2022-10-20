@@ -15,7 +15,7 @@ class ChatwootFbProvider < Facebook::Messenger::Configuration::Providers::Base
   private
 
   def bot
-    Ellixar Chat::Bot
+    Chatwoot::Bot
   end
 end
 

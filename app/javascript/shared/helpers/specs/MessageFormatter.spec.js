@@ -4,9 +4,9 @@ describe('#MessageFormatter', () => {
   describe('content with links', () => {
     it('should format correctly', () => {
       const message =
-        'Ellixar Chat is an opensource tool. [Ellixar Chat](https://www.chatwoot.com)';
+        'Ellixar Chat is an opensource tool. [Chatwoot](https://www.chatwoot.com)';
       expect(new MessageFormatter(message).formattedMessage).toMatch(
-        '<p>Ellixar Chat is an opensource tool. <a title="" class="link" href="https://www.chatwoot.com" rel="noreferrer noopener nofollow" target="_blank">Ellixar Chat</a></p>'
+        '<p>Ellixar Chat is an opensource tool. <a title="" class="link" href="https://www.chatwoot.com" rel="noreferrer noopener nofollow" target="_blank">Chatwoot</a></p>'
       );
     });
     it('should format correctly', () => {

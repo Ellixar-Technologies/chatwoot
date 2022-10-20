@@ -44,9 +44,9 @@ Ellixar Chat supports the following conversation channels:
  - **Instagram**: Connect your Instagram profile and start replying to the direct messages.
  - **Twitter**: Connect your Twitter profiles and reply to direct messages or the tweets where you are mentioned.
  - **Telegram**: Connect your Telegram bot and reply to your customers right from a single dashboard.
- - **WhatsApp**: Connect your WhatsApp business account and manage the conversation in Ellixar Chat.
- - **Line**: Connect your Line account and manage the conversations in Ellixar Chat.
- - **SMS**: Connect your Twilio SMS account and reply to the SMS queries in Ellixar Chat.
+ - **WhatsApp**: Connect your WhatsApp business account and manage the conversation in Chatwoot.
+ - **Line**: Connect your Line account and manage the conversations in Chatwoot.
+ - **SMS**: Connect your Twilio SMS account and reply to the SMS queries in Chatwoot.
  - **API Channel**: Build custom communication channels using our API channel.
  - **Email**: Forward all your email queries to Ellixar Chat and view it in our integrated dashboard.
 
@@ -54,7 +54,7 @@ And more.
 
 Other features include:
 
-- **CRM**: Save all your customer information right inside Ellixar Chat, use contact notes to log emails, phone calls, or meeting notes.
+- **CRM**: Save all your customer information right inside Chatwoot, use contact notes to log emails, phone calls, or meeting notes.
 - **Custom Attributes**: Define custom attribute attributes to store information about a contact or a conversation and extend the product to match your workflow.
 - **Shared multi-brand inboxes**: Manage multiple brands or pages using a shared inbox.
 - **Private notes**: Use @mentions and private notes to communicate internally about a conversation.
@@ -63,7 +63,7 @@ Other features include:
 - **Auto assignment**: Ellixar Chat intelligently assigns a ticket to the agents who have access to the inbox depending on their availability and load.
 - **Conversation continuity**: If the user has provided an email address through the chat widget, Ellixar Chat will send an email to the customer under the agent name so that the user can continue the conversation over the email.
 - **Multi-lingual support**: Ellixar Chat supports 10+ languages.
-- **Powerful API & Webhooks**: Extend the capability of the software using Ellixar Chat’s webhooks and APIs.
+- **Powerful API & Webhooks**: Extend the capability of the software using Chatwoot’s webhooks and APIs.
 - **Integrations**: Ellixar Chat natively integrates with Slack right now. Manage your conversations in Slack without logging into the dashboard.
 
 ## Documentation
@@ -72,7 +72,7 @@ Detailed documentation is available at [chatwoot.com/help-center](https://www.ch
 
 ## Translation process
 
-The translation process for Ellixar Chat web and mobile app is managed at [https://translate.chatwoot.com](https://translate.chatwoot.com) using Crowdin. Please read the [translation guide](https://www.chatwoot.com/docs/contributing/translating-chatwoot-to-your-language) for contributing to Ellixar Chat.
+The translation process for Ellixar Chat web and mobile app is managed at [https://translate.chatwoot.com](https://translate.chatwoot.com) using Crowdin. Please read the [translation guide](https://www.chatwoot.com/docs/contributing/translating-chatwoot-to-your-language) for contributing to Chatwoot.
 
 ## Branching model
 
@@ -119,4 +119,4 @@ Thanks goes to all these [wonderful people](https://www.chatwoot.com/docs/contri
 <a href="https://github.com/chatwoot/chatwoot/graphs/contributors"><img src="https://opencollective.com/chatwoot/contributors.svg?width=890&button=false" /></a>
 
 
-*Ellixar Chat* &copy; 2017-2022, Ellixar Chat Inc - Released under the MIT License.
+*Chatwoot* &copy; 2017-2022, Ellixar Chat Inc - Released under the MIT License.

@@ -311,7 +311,7 @@ EOF
 }
 
 ##############################################################################
-# Install Ellixar Chat
+# Install Chatwoot
 # This includes setting up ruby, cloning repo and installing dependencies.
 # Globals:
 #   pg_pass
@@ -490,7 +490,7 @@ For more verbose logs, open up a second terminal and follow along using,
 EOF
 
   sleep 3
-  read -rp 'Would you like to configure a domain and SSL for Ellixar Chat?(yes or no): ' configure_webserver
+  read -rp 'Would you like to configure a domain and SSL for Chatwoot?(yes or no): ' configure_webserver
 
   if [ "$configure_webserver" == "yes" ]; then
     get_domain_info
@@ -526,7 +526,7 @@ EOF
     echo "➥ 5/9 Skipping database setup."
   fi
 
-  echo "➥ 6/9 Installing Ellixar Chat. This takes a long while."
+  echo "➥ 6/9 Installing Chatwoot. This takes a long while."
   setup_chatwoot &>> "${LOG_FILE}"
 
   if [ "$install_pg_redis" != "no" ]; then
@@ -620,7 +620,7 @@ Example: cwctl --upgrade
 Example: cwctl -c
 
 Installation/Upgrade:
-  -i, --install             Install the latest stable version of Ellixar Chat
+  -i, --install             Install the latest stable version of Chatwoot
   -I                        Install Ellixar Chat from a git branch
   -u, --upgrade             Upgrade Ellixar Chat to the latest stable version
   -s, --ssl                 Fetch and install SSL certificates using LetsEncrypt
@@ -628,7 +628,7 @@ Installation/Upgrade:
 
 Management:
   -c, --console             Open ruby console
-  -l, --logs                View logs from Ellixar Chat. Supported values include web/worker.
+  -l, --logs                View logs from Chatwoot. Supported values include web/worker.
   -r, --restart             Restart Ellixar Chat server
   
 Miscellaneous:
