@@ -526,7 +526,7 @@ EOF
     echo "➥ 5/9 Skipping database setup."
   fi
 
-  echo "➥ 6/9 Installing Chatwoot. This takes a long while."
+  echo "➥ 6/9 Installing Ellixar Chat. This takes a long while."
   setup_chatwoot &>> "${LOG_FILE}"
 
   if [ "$install_pg_redis" != "no" ]; then
@@ -628,7 +628,7 @@ Installation/Upgrade:
 
 Management:
   -c, --console             Open ruby console
-  -l, --logs                View logs from Chatwoot. Supported values include web/worker.
+  -l, --logs                View logs from Ellixar Chat. Supported values include web/worker.
   -r, --restart             Restart Ellixar Chat server
   
 Miscellaneous:

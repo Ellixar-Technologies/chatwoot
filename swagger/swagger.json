@@ -3,7 +3,7 @@
   "info": {
     "description": "This is the API documentation for Ellixar Chat server.",
     "version": "1.0.0",
-    "title": "Chatwoot",
+    "title": "Ellixar Chat",
     "termsOfService": "https://www.chatwoot.com/terms-of-service/",
     "contact": {
       "email": "hello@chatwoot.com"
@@ -5059,7 +5059,7 @@
             "busy",
             "offline"
           ],
-          "description": "The availability status of the agent computed by Chatwoot."
+          "description": "The availability status of the agent computed by Ellixar Chat."
         },
         "auto_offline": {
           "type": "boolean",

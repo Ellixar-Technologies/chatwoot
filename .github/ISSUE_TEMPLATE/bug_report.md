@@ -37,7 +37,7 @@ Share the server logs to debug the issue further.
 
 **Environment**
 
-Describe whether you are using Ellixar Chat Cloud (app.chatwoot.com) or a self-hosted installation of Chatwoot. If you are using a self-hosted installation of Chatwoot, describe the type of deployment (Docker/Linux VM installation/Heroku/Kubernetes/Other).
+Describe whether you are using Ellixar Chat Cloud (app.chatwoot.com) or a self-hosted installation of Ellixar Chat. If you are using a self-hosted installation of Chatwoot, describe the type of deployment (Docker/Linux VM installation/Heroku/Kubernetes/Other).
 
 - [ ] app.chatwoot.com (Ellixar Chat Cloud)
 - [ ] Self-hosted
