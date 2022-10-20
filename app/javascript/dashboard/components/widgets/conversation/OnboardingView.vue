@@ -17,7 +17,7 @@
               })
             }}
           </p>
-          <p v-if="globalConfig.installationName === 'Chatwoot'">
+          <p v-if="globalConfig.installationName === 'Ellixar Chat'">
             <a
               href="https://www.chatwoot.com/changelog"
               target="_blank"
